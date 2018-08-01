@@ -4,4 +4,7 @@ add new Txt
 
 three line!
 
+
 test --amend
+
+hot fix rebase
