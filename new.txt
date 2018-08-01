@@ -3,3 +3,5 @@ new file!
 add new Txt
 
 three line!
+
+test --amend
