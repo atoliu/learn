@@ -7,4 +7,12 @@ three line!
 
 test --amend
 
+
 hot fix rebase
+
+new rebase
+
+<<<<<<< HEAD
+=======
+rebase
+>>>>>>> e55df94... new feature rebase
