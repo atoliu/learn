@@ -4,6 +4,5 @@ add new Txt
 
 three line!
 
-test --amend
 
-new rebase
+test --amend
